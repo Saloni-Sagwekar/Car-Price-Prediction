@@ -2,8 +2,6 @@
 Linear Regression project predicting car prices based on features
 
 
-# Car Price Prediction using Linear Regression
-
 This project demonstrates a simple and interpretable machine learning model using **Linear Regression** to predict the prices of used cars. It explores the relationship between key features like mileage, manufacturing year, fuel type, and others to estimate a car's selling price.
 
 ---
